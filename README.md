@@ -40,6 +40,15 @@ El archivo data.json en la carpeta data contiene un ejemplo de cómo están estr
 ---}<br>
 ]<br>
 
+Este ejemplo muestra cómo crear una materia dentro de una carrera
+
+{
+"nombre" : "funciono? puede ser pa?",
+"cuatrimestral": true,
+"anio": "1ro",
+"carreraId": "gfdgf"
+}
+
 ## Instalación y Ejecución de la API:
 Para instalar y ejecutar la API, sigue estos pasos:
 
