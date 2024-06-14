@@ -43,10 +43,10 @@ El archivo data.json en la carpeta data contiene un ejemplo de cómo están estr
 Este ejemplo muestra cómo crear una materia dentro de una carrera
 
 {<br>
-"nombre" : "funciono? puede ser pa?",<br>
+"nombre" : "introducción a la programación",<br>
 "cuatrimestral": true,<br>
 "anio": "1ro",<br>
-"carreraId": "gfdgf"<br>
+"carreraId": 1<br>
 }<br>
 
 ## Instalación y Ejecución de la API:
