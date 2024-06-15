@@ -3,7 +3,6 @@
 + Echaniz Agustín
 + Ramos Pablo
 + Mariano Bihurriet
-+ Morandi Diego
 ## Nombre del Grupo:
 ### `404 - Page Not Found`
 ## Descripción del Proyecto:
